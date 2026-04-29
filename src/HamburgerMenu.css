@@ -1,0 +1,57 @@
+/* Basic styles for the hamburger icon
+.hamburger-menu {
+    position: relative;
+  }
+  
+  .hamburger-icon {
+    background: none;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 30px;
+    height: 21px;
+    cursor: pointer;
+  }
+  
+  .hamburger-icon .line {
+    background-color: black;
+    height: 3px;
+    width: 100%;
+  }
+  
+  /* Styles for the navigation menu */
+  /* .menu {
+    display: none;
+    position: absolute;
+    top: 40px;
+    right: 0;
+    background-color: #333;
+    width: 200px;
+    border-radius: 5px;
+  }
+  
+  .menu.open {
+    display: block;
+  }
+  
+  .menu ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .menu ul li {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .menu ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+  }
+  
+  .menu ul li a:hover {
+    background-color: #444;
+  } */
