@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mercia-/static/css/main.9cda3402.css",
-    "main.js": "/mercia-/static/js/main.00537707.js",
-    "static/js/146.108d9180.chunk.js": "/mercia-/static/js/146.108d9180.chunk.js",
+    "main.css": "/mercia-/static/css/main.801e0474.css",
+    "main.js": "/mercia-/static/js/main.419d2aa7.js",
+    "static/js/584.a1513632.chunk.js": "/mercia-/static/js/584.a1513632.chunk.js",
     "static/media/infinitas-webpage.jpg": "/mercia-/static/media/infinitas-webpage.6d09d40a32cb481c0a57.jpg",
     "static/media/wbdaccountants-min.jpg": "/mercia-/static/media/wbdaccountants-min.003da32d2327f8a4985f.jpg",
     "static/media/bakerbritt-website-1-min.jpg": "/mercia-/static/media/bakerbritt-website-1-min.24a34ccf3f6f260c50dd.jpg",
     "static/media/allianceaccountants-min-1.jpg": "/mercia-/static/media/allianceaccountants-min-1.4185f543824b429cc8da.jpg",
-    "static/media/website-animation.svg": "/mercia-/static/media/website-animation.1f23fb9650d287ad92f9c2f452cac7e7.svg",
+    "static/media/website-animation.svg": "/mercia-/static/media/website-animation.0418f087dd78f2aa99d1252823207f39.svg",
     "static/media/women-sat.jpg": "/mercia-/static/media/women-sat.a4d859a3aea392b138b9.jpg",
-    "static/media/animated-character-searching.svg": "/mercia-/static/media/animated-character-searching.37ce77e50607a25d7284a32758565952.svg",
+    "static/media/animated-character-searching.svg": "/mercia-/static/media/animated-character-searching.bf03e800968c65c00000be724fbee65e.svg",
     "static/media/Group-logo-text.svg": "/mercia-/static/media/Group-logo-text.f7d9c18ff53d0507238cff38f3e2bd9d.svg",
     "static/media/Group-logo-icon.svg": "/mercia-/static/media/Group-logo-icon.34cf7764e5bd2ab7942419b0d5f7b7b2.svg",
     "index.html": "/mercia-/index.html",
-    "main.9cda3402.css.map": "/mercia-/static/css/main.9cda3402.css.map",
-    "main.00537707.js.map": "/mercia-/static/js/main.00537707.js.map",
-    "146.108d9180.chunk.js.map": "/mercia-/static/js/146.108d9180.chunk.js.map"
+    "main.801e0474.css.map": "/mercia-/static/css/main.801e0474.css.map",
+    "main.419d2aa7.js.map": "/mercia-/static/js/main.419d2aa7.js.map",
+    "584.a1513632.chunk.js.map": "/mercia-/static/js/584.a1513632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cda3402.css",
-    "static/js/main.00537707.js"
+    "static/css/main.801e0474.css",
+    "static/js/main.419d2aa7.js"
   ]
 }
