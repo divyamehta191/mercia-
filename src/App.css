@@ -1326,7 +1326,7 @@ margin-top: 70px;
   }
 
   .Appleft, .Appright ul {
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
     text-align: center;
   }
@@ -1899,7 +1899,7 @@ margin-top: 70px;
   .pics .picsleft img, .picsrightt img {
     /* width: 100%;
     height: auto; */
-    width: auto;
+    width: 350px;
     height: auto;
   }
   
